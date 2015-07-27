@@ -1,5 +1,7 @@
 # csswizardry-grids
 
+[Original repo](https://github.com/csswizardry/csswizardry-grids)
+
 **Simple, fluid, nestable, flexible, Sass-based, responsive grid system.**
 
 * Fully responsive
